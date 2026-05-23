@@ -12,11 +12,9 @@ export const Footer = () => {
             <p className="footer-description">
               Curating luxury organic cosmetics designed to elevate your everyday ritual. Reveal your inner glow with sustainably sourced, premium ingredients.
             </p>
-            <div className="social-links">
-              <a href="#" aria-label="Instagram">IG</a>
-              <a href="#" aria-label="Pinterest">PIN</a>
-              <a href="#" aria-label="Facebook">FB</a>
-            </div>
+            <a href="/" aria-label="Instagram">...</a>
+            <a href="/" aria-label="Facebook">...</a>
+            <a href="/" aria-label="Twitter">...</a>
           </div>
 
           <div className="footer-links-section">
